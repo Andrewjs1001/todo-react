@@ -1,0 +1,14 @@
+Todo app using React, Redux, SQL, and ASP.NET
+
+We want this app to be able to do a few things.
+1. Record Task under the specified model within the taskmodel class.
+2. Set up a list of tasks that I can choose from to put into my daily work. 
+3. Remove task from daily work.
+4. Specify that a task is completed.
+5. Filter by task status (join in SQL), importance level, and other information that I decide important when I actually get around to building the thing. 
+6. Funny memes and other task
+7. Make it my website somewhere? I'm all game for making this public information.
+
+notes:
+if in progress, it is put into daily work automatically
+Have an easy to access notepad for each task via relational table
